@@ -1,0 +1,86 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Sprite",
+            "request": "launch",
+            "mainClass": "Sprite",
+            "projectName": "java_83dd9672"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Window",
+            "request": "launch",
+            "mainClass": "Window",
+            "projectName": "java_83dd9672"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Player",
+            "request": "launch",
+            "mainClass": "Player",
+            "projectName": "java_83dd9672"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CalculadoraAlt",
+            "request": "launch",
+            "mainClass": "CalculadoraAlt",
+            "projectName": "java_83dd9672"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Calculadora",
+            "request": "launch",
+            "mainClass": "Calculadora",
+            "projectName": "java_83dd9672"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Exemplo",
+            "request": "launch",
+            "mainClass": "Exemplo",
+            "projectName": "java_83dd9672"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Check",
+            "request": "launch",
+            "mainClass": "Check",
+            "projectName": "java_83dd9672"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Botao",
+            "request": "launch",
+            "mainClass": "Botao",
+            "projectName": "java_83dd9672"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ProgPrincipal",
+            "request": "launch",
+            "mainClass": "ProgPrincipal",
+            "projectName": "java_83dd9672"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Teste",
+            "request": "launch",
+            "mainClass": "Teste",
+            "projectName": "java_83dd9672"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Hello",
+            "request": "launch",
+            "mainClass": "Hello"
+        }
+    ]
+}
