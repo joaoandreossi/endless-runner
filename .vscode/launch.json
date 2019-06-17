@@ -2,6 +2,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Client",
+            "request": "launch",
+            "mainClass": "Client",
+            "projectName": "projeto_tp_297f5f68"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Server",
+            "request": "launch",
+            "mainClass": "Server",
+            "projectName": "projeto_tp_297f5f68"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Window",
+            "request": "launch",
+            "mainClass": "Window",
+            "projectName": "projeto_tp_297f5f68"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Sprite",
             "request": "launch",
             "mainClass": "Sprite",
