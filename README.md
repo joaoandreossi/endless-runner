@@ -1,2 +1,2 @@
 # endless-runner
-Endless Runner game created for the subject Programming Techniques.
+Endless Runner game created as a final project for the course Programming Techniques.
